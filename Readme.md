@@ -30,3 +30,7 @@ open https://applicationize.me/now;
 5) at chrome://extensions ensure developer mode is on.
 6) drag the crx file from downloads into chrome the extension page.
 ```
+# Demo
+<table><tr><td>
+    <img src="https://user-images.githubusercontent.com/11463275/51208463-c3990280-18db-11e9-9fdc-6c08e6d3e74a.gif" />
+</td></tr></table>
